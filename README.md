@@ -14,11 +14,19 @@
 
 ### Toolkit
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,js,aws,docker,postgres,linux,git&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,js,aws,docker,postgres,linux,git&theme=light" />
-  <img alt="Java, Python, JavaScript, AWS, Docker, PostgreSQL, Linux, Git" src="https://skillicons.dev/icons?i=java,python,js,aws,docker,postgres,linux,git&theme=dark" />
-</picture>
+<img src="https://img.shields.io/badge/Ballerina-20B6B0?style=flat-square" alt="Ballerina" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<br />
+<img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square" alt="Amazon Bedrock" />
+<img src="https://img.shields.io/badge/Bedrock_AgentCore-232F3E?style=flat-square" alt="Bedrock AgentCore" />
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" alt="OpenSearch" />
+<img src="https://img.shields.io/badge/S3_·_S3_Vectors-569A31?style=flat-square" alt="S3 / S3 Vectors" />
+<br />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
 <br /><br />
 
