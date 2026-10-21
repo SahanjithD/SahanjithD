@@ -8,15 +8,9 @@
 
 <br />
 
-### About me
-
-- Computer Engineering undergraduate at the **University of Ruhuna**
-- Software Engineering Intern on the AI Integration team at **WSO2**
-- I learn best by building things and taking them apart to see how they work
-- Interested in AI systems, DevOps, security and full-stack development
-- Big fan of maths, especially probability, linear algebra and Markov chains
-- Treasurer of the IEEE University of Ruhuna Student Branch
-- Off the clock: F1, football, anime and Marvel
+- Computer Engineering @ **University of Ruhuna**
+- Intern, AI Integration @ **WSO2**
+- Into AI, DevOps, security and maths
 
 ### Toolkit
 
