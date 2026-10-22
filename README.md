@@ -1,8 +1,6 @@
 <div align="center">
 
-# Dasun Deshaja
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3200&pause=1100&color=58A6FF&center=true&vCenter=true&width=460&height=28&lines=Computer+Engineering+Undergraduate;Software+Engineering+Intern+%40+WSO2;AI+integrations%2C+cloud+and+security" alt="Computer Engineering Undergraduate · Software Engineering Intern at WSO2" />
+<img src="https://raw.githubusercontent.com/SahanjithD/SahanjithD/main/assets/header.svg" width="100%" alt="Dasun Deshaja — Computer Engineering undergraduate, AI integration intern at WSO2" />
 
 <br />
 
@@ -32,57 +30,24 @@ Shipping upstream into [`ballerina-platform`](https://github.com/ballerina-platf
 
 ## Stack
 
-```mermaid
-mindmap
-  root((Stack))
-    Languages
-      Ballerina
-      Python
-      Java
-      TypeScript
-    AI and Cloud
-      Amazon Bedrock
-      OpenSearch
-      Amazon S3
-      LangChain
-      PyTorch
-    Platform
-      Docker
-      Jenkins
-      GitHub Actions
-      Linux
-```
+<img src="https://img.shields.io/badge/Ballerina-0D1117?style=flat-square" alt="Ballerina" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=F89820" alt="Java" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 
-## Selected work
+<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square" alt="AWS" />
+<img src="https://img.shields.io/badge/Bedrock-0D1117?style=flat-square" alt="Amazon Bedrock" />
+<img src="https://img.shields.io/badge/OpenSearch-0D1117?style=flat-square&logo=opensearch&logoColor=005EB8" alt="OpenSearch" />
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
 
-**[prng-lsb-steganography](https://github.com/SahanjithD/prng-lsb-steganography)** — PRNG-based adaptive
-LSB image steganography with secret-key security, benchmarked against sequential LSB using PSNR,
-histogram analysis and RS steganalysis.
-
-**[malware-image-classification-cnn](https://github.com/SahanjithD/malware-image-classification-cnn)** —
-Malware binaries rendered as grayscale images and classified across 25 families on the Malimg
-dataset. PyTorch.
-
-**[SDN_Test_Bed](https://github.com/SahanjithD/SDN_Test_Bed)** — Software-defined networking lab with
-OpenFlow applications, including ML-powered DDoS detection.
-
-**[Draftly](https://github.com/SahanjithD/Draftly)** — Open-source blogging platform on the MERN stack,
-containerised with Docker and deployed to AWS through a Jenkins pipeline.
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SahanjithD/SahanjithD/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahanjithD/SahanjithD/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/SahanjithD/SahanjithD/output/github-snake.svg" alt="A snake eating my contribution graph" width="100%" />
-</picture>
-
-</div>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Jenkins-0D1117?style=flat-square&logo=jenkins&logoColor=D24939" alt="Jenkins" />
+<img src="https://img.shields.io/badge/Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 
 ## Stats
 
-<!-- stats:start -->
-I joined GitHub **2** years ago and have since pushed **404** commits, opened **15** issues and
-submitted **84** pull requests — **54** of them merged — across **19** personal projects and
-**16** repositories.
-<!-- stats:end -->
+<img src="https://raw.githubusercontent.com/SahanjithD/SahanjithD/main/assets/stats.svg" width="100%" alt="GitHub activity: commits, pull requests, issues, repositories and most-used languages" />
