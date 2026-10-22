@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220"
-     role="img" aria-label="Dasun Deshaja — Computer Engineering undergraduate, AI integration intern at WSO2">
-  <title>Dasun Deshaja — Computer Engineering undergraduate, AI integration intern at WSO2</title>
+     role="img" aria-label="Dasun Deshaja — Computer Engineering undergraduate, Integration AI team at WSO2">
+  <title>Dasun Deshaja — Computer Engineering undergraduate, Integration AI team at WSO2</title>
 
   <defs>
     <!-- Deep backdrop the glass sits on -->
@@ -90,7 +90,7 @@
     <text x="64" y="104" font-size="40" font-weight="600" fill="#F0F6FC"
           letter-spacing="-0.5">Dasun Deshaja</text>
     <text x="64" y="140" font-size="16.5" font-weight="400" fill="#AEBBD0" letter-spacing="0.2">
-      Computer Engineering undergraduate · AI integration intern @ WSO2
+      Computer Engineering undergraduate · Integration AI team @ WSO2
     </text>
     <rect x="64" y="158" width="52" height="2.5" rx="1.25" fill="#58A6FF" fill-opacity=".9"/>
   </g>
