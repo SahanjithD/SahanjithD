@@ -18,37 +18,56 @@
 Computer Engineering undergraduate at the **University of Ruhuna**, and a Software Engineering
 intern at **WSO2** building Ballerina AI integrations for AWS.
 
-I like the layer where AI meets infrastructure — model providers, vector stores, and the plumbing
-that makes agents genuinely useful. Also into security, networking and maths, and I learn best by
-building things.
+I work at the layer where AI meets infrastructure — model providers, vector stores, and the
+plumbing that makes agents genuinely useful. Away from that, I spend my time on security and
+networking.
 
 ## Currently
 
-- A Bedrock model & embedding provider for Ballerina AI agents
-- An `ai:VectorStore` implementation for Amazon OpenSearch — managed domains and Serverless
-- An AI `DataLoader` for Amazon S3, and agent memory backed by Bedrock AgentCore
+Shipping upstream into [`ballerina-platform`](https://github.com/ballerina-platform):
 
-## Toolbox
+- A **Bedrock** model & embedding provider for Ballerina AI agents
+- An `ai:VectorStore` for **Amazon OpenSearch** — managed domains and Serverless
+- An AI `DataLoader` for **Amazon S3**, and agent memory backed by **Bedrock AgentCore**
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=F89820" alt="Java" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Ballerina-0D1117?style=flat-square" alt="Ballerina" />
+## Stack
 
-<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square" alt="AWS" />
-<img src="https://img.shields.io/badge/Bedrock-0D1117?style=flat-square" alt="Amazon Bedrock" />
-<img src="https://img.shields.io/badge/OpenSearch-0D1117?style=flat-square&logo=opensearch&logoColor=005EB8" alt="OpenSearch" />
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+```mermaid
+mindmap
+  root((Stack))
+    Languages
+      Ballerina
+      Python
+      Java
+      TypeScript
+    AI and Cloud
+      Amazon Bedrock
+      OpenSearch
+      Amazon S3
+      LangChain
+      PyTorch
+    Platform
+      Docker
+      Jenkins
+      GitHub Actions
+      Linux
+```
 
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/Jenkins-0D1117?style=flat-square&logo=jenkins&logoColor=D24939" alt="Jenkins" />
-<img src="https://img.shields.io/badge/Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+## Selected work
 
-<br />
+**[prng-lsb-steganography](https://github.com/SahanjithD/prng-lsb-steganography)** — PRNG-based adaptive
+LSB image steganography with secret-key security, benchmarked against sequential LSB using PSNR,
+histogram analysis and RS steganalysis.
+
+**[malware-image-classification-cnn](https://github.com/SahanjithD/malware-image-classification-cnn)** —
+Malware binaries rendered as grayscale images and classified across 25 families on the Malimg
+dataset. PyTorch.
+
+**[SDN_Test_Bed](https://github.com/SahanjithD/SDN_Test_Bed)** — Software-defined networking lab with
+OpenFlow applications, including ML-powered DDoS detection.
+
+**[Draftly](https://github.com/SahanjithD/Draftly)** — Open-source blogging platform on the MERN stack,
+containerised with Docker and deployed to AWS through a Jenkins pipeline.
 
 <div align="center">
 
@@ -58,9 +77,12 @@ building things.
   <img src="https://raw.githubusercontent.com/SahanjithD/SahanjithD/output/github-snake.svg" alt="A snake eating my contribution graph" width="100%" />
 </picture>
 
-<br /><br />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=SahanjithD&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&hide=issues&bg_color=00000000&title_color=58A6FF&text_color=768390&icon_color=58A6FF" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanjithD&layout=compact&hide_border=true&hide_title=true&langs_count=6&hide=html,css&bg_color=00000000&title_color=58A6FF&text_color=768390" alt="Most used languages" />
-
 </div>
+
+## Stats
+
+<!-- stats:start -->
+I joined GitHub **2** years ago and have since pushed **404** commits, opened **15** issues and
+submitted **84** pull requests — **54** of them merged — across **19** personal projects and
+**16** repositories.
+<!-- stats:end -->
