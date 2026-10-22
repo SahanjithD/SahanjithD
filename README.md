@@ -25,7 +25,7 @@
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square" alt="AWS" /> <img src="https://img.shields.io/badge/OpenSearch-0D1117?style=flat-square&logo=opensearch&logoColor=005EB8" alt="OpenSearch" /> <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=1C3C3C" alt="LangChain" /> <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square" alt="AWS" /> <img src="https://img.shields.io/badge/OpenSearch-0D1117?style=flat-square&logo=opensearch&logoColor=005EB8" alt="OpenSearch" /> <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
 </p>
 
 <p>
